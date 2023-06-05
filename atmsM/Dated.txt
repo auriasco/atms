@@ -1,0 +1,26 @@
+hh
+0530 code ninjas shift 8:30 - 5:30 PM tue 
+0531 code ninjas shift 8:30 - 5:30 PM wed 
+0601 code ninjas shift 8:30 - 5:30 PM thu 
+0602 code ninjas shift 8:30 - 5:30 PM fri 
+0603 code ninjas shift 1:00 - 5:30 PM sat 
+0605 code ninjas shift 12:30 - 5:30 PM mon 
+0606 code ninjas shift 12:30 - 5:30 PM tue 
+0607 code ninjas shift 12:30 - 5:30 PM wed 
+0608 code ninjas shift 12:30 - 5:30 PM thu 
+0609 code ninjas shift 12:30 - 5:30 PM fri 
+0612 code ninjas shift 8:30 - 12:30 PM mon 
+0613 code ninjas shift 8:30 - 12:30 PM tue 
+0614 code ninjas shift 8:30 - 12:30 PM wed 
+0615 code ninjas shift 8:30 - 12:30 PM thu 
+0616 code ninjas shift 8:30 - 12:30 PM fri 
+0617 code ninjas shift 12:30 - 3:30 PM sat 
+0619 code ninjas shift 12:30 - 5:30 PM mon 
+0620 code ninjas shift 12:30 - 5:30 PM tue 
+0621 code ninjas shift 12:30 - 5:30 PM wed 
+0622 code ninjas shift 12:30 - 5:30 PM thu 
+0623 code ninjas shift 12:30 - 5:30 PM fri 
+0810 thomas appointment 11:00 AM 
+date action
+
+
